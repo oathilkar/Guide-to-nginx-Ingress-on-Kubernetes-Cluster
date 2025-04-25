@@ -1,4 +1,4 @@
-***** Step-by-Step Guide to create K8S Ingress on Kubernetes Cluster *****
+***** Step-by-Step Guide to create K8S nginx Ingress on Kubernetes Cluster *****
 
 This a the guide to deploy Application on Kubernetes cluster along with creation of Ingress K8s Object.
 It creates Ingress components as Ingress Resource & Ingress Controller to route external traffic to the deployed Application.
